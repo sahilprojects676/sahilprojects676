@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sahil Naphade
 
-### 💻 Full-Stack Web Developer | Third-Year Computer Science Engineering Student
+ 💻 Full-Stack Web Developer | Third-Year Computer Science Engineering Student
 
 🚀 Passionate about building modern web applications and solving real-world problems.
 
