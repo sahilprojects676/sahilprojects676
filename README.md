@@ -31,22 +31,26 @@
 
 - ## 🚀 Featured Projects
 
-
-- ### 🌐 Personal Portfolio
+ 
+ ### 🌐 Personal Portfolio
 A modern and responsive portfolio website showcasing my skills, projects, and achievements.
 [🔗 Visit Portfolio](http://sahilprojects676.github.io/Portfolio/)
+
 
 ### 🥗 NutriMatch
 AI-powered nutrition recommendation platform.
 [🔗 View Project](https://sahilprojects676.github.io/NutriMatch/)
 
+
 ### 💰 Monthly Expense Tracker
 A web application to manage and track monthly expenses.
 [🔗 View Project](https://sahilprojects676.github.io/MonthlyExpensetracker/)
 
+
 ### 🚗 Autonomous Navigation System
 Real-time vehicle tracking and navigation project.
 [🔗 View Project](https://sahilprojects676.github.io/Autonomous-Navigation-System/)
+
 
 ### 🍽️ Diet Management System
 Responsive website for personalized diet planning.
