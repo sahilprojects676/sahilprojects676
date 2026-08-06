@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sahil Naphade
 
- 💻 Full-Stack Web Developer | Third-Year Computer Science Engineering Student
+ ###💻 Full-Stack Web Developer | Third-Year Computer Science Engineering Student
 
 🚀 Passionate about building modern web applications and solving real-world problems.
 
@@ -9,7 +9,7 @@
 📫 Reach me: sahilnaphade676@gmail.com
 
 
-👨‍💻 About Me
+##👨‍💻 About Me
 
 - 🎓 Third-Year Computer Science Engineering Student at MIT ADT University
 - 💼 Completed a Web Development Internship
