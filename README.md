@@ -20,7 +20,7 @@
 - 📚 Currently learning Node.js, Express.js, MongoDB, and Cloud Technologies
 
 
-- ## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
@@ -33,7 +33,7 @@
 - GitHub
 
 
-- ## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
  
  ### 🌐 Personal Portfolio
