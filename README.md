@@ -19,7 +19,7 @@
 - 🚀 Passionate about creating responsive and user-friendly websites
 - 📚 Currently learning Node.js, Express.js, MongoDB, and Cloud Technologies
 
-- 
+
 - ## 🛠️ Tech Stack
 
 - HTML5
@@ -31,7 +31,7 @@
 - MySQL
 - Git
 - GitHub
-- 
+
 
 - ## 🚀 Featured Projects
 
