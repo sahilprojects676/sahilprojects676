@@ -9,7 +9,7 @@
 📫 Reach me: sahilnaphade676@gmail.com
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 Third-Year Computer Science Engineering Student at MIT ADT University
 - 💼 Completed a Web Development Internship
